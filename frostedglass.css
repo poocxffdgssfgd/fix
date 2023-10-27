@@ -710,30 +710,30 @@ textarea {
   padding-left: 5px;
 }
 
-#app-mount .divider-2rZFJK {
+#app-mount .divider_b9338f {
   border: none;
 }
-#app-mount .divider-2rZFJK .content-3spvdd {
+#app-mount .divider_b9338f .content_d67847 {
   display: flex;
   width: 100%;
   justify-content: center;
   align-items: center;
   color: var(--text-muted);
 }
-#app-mount .divider-2rZFJK .content-3spvdd::before, #app-mount .divider-2rZFJK .content-3spvdd::after {
+#app-mount .divider_b9338f .content_d67847::before, #app-mount .divider_b9338f .content_d67847::after {
   content: "";
   flex: 1;
   height: 1px;
   display: block;
   background: var(--background-modifier-accent);
 }
-#app-mount .divider-2rZFJK .content-3spvdd::before {
+#app-mount .divider_b9338f .content_d67847::before {
   margin-right: 10px;
 }
-#app-mount .divider-2rZFJK .content-3spvdd::after {
+#app-mount .divider_b9338f .content_d67847::after {
   margin-left: 10px;
 }
-#app-mount .divider-2rZFJK.isUnread-3Lojb- {
+#app-mount .divider_b9338f.isUnread-3Lojb- {
   border-top: 1px solid rgb(var(--discord-red));
 }
 
@@ -756,7 +756,7 @@ textarea {
   margin-top: 10px;
 }
 
-#app-mount .container-3XgAHv {
+#app-mount .container_def45c {
   background: rgb(0, 0, 0, var(--middle-brightness));
 }
 
