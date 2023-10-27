@@ -89,7 +89,7 @@
   overflow: hidden;
   border-radius: var(--window-roundness);
 }
-#app-mount .base-2jDfDU::before {
+#app-mount .base__3e6af::before {
   content: "";
   position: absolute;
   height: 5px;
