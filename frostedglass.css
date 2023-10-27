@@ -80,7 +80,7 @@
   --text-link: var(--link-colour);
 }
 
-#app-mount .layer-2efaa {
+#app-mount .layer__2efaa {
   top: var(--window-padding);
   right: var(--window-padding);
   bottom: var(--window-padding);
