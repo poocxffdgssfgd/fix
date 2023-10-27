@@ -199,7 +199,7 @@ textarea {
   background-position: var(--background-image-position, center);
   background-size: var(--background-image-size, cover);
 }
-#app-mount .bg-1QIAus::before {
+#app-mount .bg__12180::before {
   content: "";
   position: absolute;
   top: calc(var(--window-padding) + 22px);
