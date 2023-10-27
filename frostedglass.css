@@ -38,12 +38,7 @@
 }
 
 .theme-dark {
-  --header-primary: #fff;
-  --header-secondary: #bbb;
-  --text-normal: #fff;
-  --text-default: #ddd;
-  --text-muted: #aaa;
-  --text-link: #00b0f4;
+
   --channels-default: #ddd;
   --interactive-normal: #bbb;
   --interactive-hover: #eee;
