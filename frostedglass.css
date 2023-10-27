@@ -1469,84 +1469,84 @@ textarea {
   background: rgb(0, 0, 0, var(--middle-brightness));
 }
 
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .standardSidebarView-E9Pc3j {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .standardSidebarView-E9Pc3j {
   top: 0;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .sidebarRegionScroller-FXiQOh {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .sidebarRegionScroller-FXiQOh {
   background-color: rgb(0, 0, 0, var(--left-brightness));
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .multiInput-1e2xJ7 .input-2g-os5 {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .multiInput-1e2xJ7 .input-2g-os5 {
   background: transparent;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .description-3_Ncsb,
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .h5-18_1nd:not(.isEnabled-2qCZy8),
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .labelDescriptor-1PqHgD,
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .viewBody-2Qz-jg {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .description-3_Ncsb,
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .h5-18_1nd:not(.isEnabled-2qCZy8),
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .labelDescriptor-1PqHgD,
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .viewBody-2Qz-jg {
   color: var(--text-normal);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .info-3pQQBb .colorMuted-20987_:first-child::before {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .info-3pQQBb .colorMuted-20987_:first-child::before {
   content: var(--version);
   display: block;
 }
 
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .accountProfileCard-lbN7n- {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .accountProfileCard-lbN7n- {
   background: var(--background-secondary);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .fieldList-in8WkP {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .fieldList-in8WkP {
   background: transparent;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .authedApp-8q3NA9 {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .authedApp-8q3NA9 {
   background: var(--background-secondary);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connection-YOVI9j {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connection-YOVI9j {
   position: relative;
   overflow: hidden;
   box-shadow: none;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connection-YOVI9j .integration-3kMeY4 {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connection-YOVI9j .integration-3kMeY4 {
   background: var(--foreground);
   border: none;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionHeader-2rV1ze {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionHeader-2rV1ze {
   background: transparent;
   border: none;
   margin-bottom: 0;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE {
   border: none;
   background: var(--foreground);
   transition: 0.2s ease;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::after, #app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::before {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::after, #app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::before {
   position: absolute;
   top: 50%;
   left: 50%;
   width: 2px;
   height: 16px;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::before {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::before {
   transform: translate(-50%, -50%) rotate(45deg);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::after {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE::after {
   transform: translate(-50%, -50%) rotate(-45deg);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE span {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE span {
   display: none;
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE:hover {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE:hover {
   background: var(--foreground-double);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE:active {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .connectionDelete-XXTMqE:active {
   background: var(--foreground-triple);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .card-2ART2V::before {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .card-2ART2V::before {
   border-color: transparent;
   background: var(--foreground);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .game-3x3aDt {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .game-3x3aDt {
   box-shadow: 0 1px 0 0 var(--background-modifier-accent);
 }
-#app-mount .layer-86YKbF:not(.baseLayer-W6S8cY) .item-3eFBNF {
+#app-mount .layer__2efaa:not(.baseLayer-W6S8cY) .item-3eFBNF {
   box-shadow: inset 0 -1px 0 0 var(--background-modifier-accent);
 }
 
