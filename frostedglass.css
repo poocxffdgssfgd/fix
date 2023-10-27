@@ -494,28 +494,28 @@ textarea {
   background: rgb(var(--discord-twitch), 0.6);
 }
 
-#app-mount .guilds-2JjMmN {
+#app-mount .guilds__2b93a {
   background-color: transparent;
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4 {
+#app-mount .guilds__2b93a .scrollerBase_dc3aa9 {
   background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4::-webkit-scrollbar {
+#app-mount .guilds__2b93a .scrollerBase_dc3aa9::-webkit-scrollbar {
   display: none;
 }
 
-#app-mount .guilds-2JjMmN [class*=expandedFolderBackground] {
+#app-mount .guilds__2b93a [class*=expandedFolderBackground] {
   background: var(--foreground);
 }
-#app-mount .guilds-2JjMmN [class*=folder] {
+#app-mount .guilds__2b93a [class*=folder] {
   background: transparent;
 }
 
-#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
+#app-mount .guilds__2b93a .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
   background: var(--gradient);
   background-color: transparent;
 }
-#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n::before {
+#app-mount .guilds__2b93a .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n::before {
   content: "";
   border-radius: 50%;
   position: absolute;
@@ -527,26 +527,26 @@ textarea {
   width: 100%;
   transition: 0.2s ease;
 }
-#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n.selected-1Drb7Z::before {
+#app-mount .guilds__2b93a .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n.selected-1Drb7Z::before {
   border-radius: 30%;
 }
-#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .homeIcon-r0w4ny {
+#app-mount .guilds__2b93a .tutorialContainer-1pL9QS .homeIcon-r0w4ny {
   display: none;
 }
-#app-mount .guilds-2JjMmN .selected-1Drb7Z .acronym-2zrAHN {
+#app-mount .guilds__2b93a .selected-1Drb7Z .acronym-2zrAHN {
   background: var(--foreground-double);
 }
-#app-mount .guilds-2JjMmN .acronym-2zrAHN {
+#app-mount .guilds__2b93a .acronym-2zrAHN {
   background: var(--foreground);
 }
-#app-mount .guilds-2JjMmN .acronym-2zrAHN:hover {
+#app-mount .guilds__2b93a .acronym-2zrAHN:hover {
   background: var(--foreground-double);
 }
-#app-mount .guilds-2JjMmN [class*=circleIconButton] {
+#app-mount .guilds__2b93a [class*=circleIconButton] {
   background: var(--foreground);
   color: rgb(var(--gradient-primary));
 }
-#app-mount .guilds-2JjMmN [class*=circleIconButton].selected-ugP_am, #app-mount .guilds-2JjMmN [class*=circleIconButton]:hover {
+#app-mount .guilds__2b93a [class*=circleIconButton].selected-ugP_am, #app-mount .guilds__2b93a [class*=circleIconButton]:hover {
   background: var(--foreground-double);
   color: var(--text-normal);
 }
